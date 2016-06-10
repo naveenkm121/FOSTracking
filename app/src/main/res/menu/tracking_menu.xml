@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/stop_traking"
+        android:title="@string/stop_tracking"
+        yourapp:showAsAction="never"/>
+
+    <item android:id="@+id/locate_me"
+        android:icon="@drawable/location_icon"
+        android:title="@string/locate_me"
+        yourapp:showAsAction="always"
+        android:orderInCategory="2"/>
+</menu>

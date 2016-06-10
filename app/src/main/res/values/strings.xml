@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FOSTracking</string>
+    <string name="title_activity_maps">FOS Tracking</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="ok">OK</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="locate_me">Locate Me</string>
+    <string name="name_field_blank">Name field cannot be blank</string>
+    <string name="password_field_blank">Password field can not be blank</string>
+    <string name="email_id_field_blank">Email-id field can not be blank</string>
+    <string name="mobile_field_blank">Mobile Number Field can not be blank</string>
+    <string name="name_should_be_more_than_2_character_long">Name should be more than 2 characters</string>
+    <string name="empty_filed">Password can not be blank. Please enter password.</string>
+    <string name="password_shld_be_three_characters">Password should have at least 3 characters.</string>
+    <string name="field_empty">Please enter valid email-id or mobile number.</string>
+    <string name="email_id_not_valid">Email id is not valid</string>
+    <string name="password_confirm_password_do_not_match">Password is not matching. Please try
+again.</string>
+    <string name="error">Error</string>
+    <string name="SignUp">SignUp</string>
+    <string name="SignIn">SignIn</string>
+    <string name="internet_connection">Internet connection</string>
+    <string name="seems_no_internet">Seems like you are not connected to internet.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

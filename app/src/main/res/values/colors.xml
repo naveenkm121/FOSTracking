@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="view_bg">#b20e0f</color>
+    <color name="white">#ffffff</color>
+    <color name="btn_bg">#3e4a56</color>
+    <color name="login_focus_field">#989898</color>
+    <color name="login_unfocus_field">#505050</color>
+    <color name="text_login_color_code">#0F0F0F</color>
+    <color name="cursor_color">#7c7c7c</color>
+    <color name="transparent">#00000000</color>
+    <color name="registration_btn_color">#39a0e9</color>
+    <color name="nav_drawer_expand">#E67A40</color>
+    <color name="gray_3">#DCDCDC</color>
+    <color name="home_background">#E6E9EC</color>
+    <color name="light_grey_background">#e9e3e3</color>
+    <color name="white_less_opacity">#80FFFFFF</color>
+    <color name="white_20_opacity">#20000000</color>
+    <color name="white_70_opacity">#70FFFFFF</color>
+    <color name="color_1">#F1EDC2</color>
+    <color name="green_2">#98FB98</color>
+    <color name="gray_2">#C0C0C0</color>
+    <color name="gray_4">#E9E9E9</color>
+    <color name="black">#000000</color>
+    <color name="black_less_opacity">#70000000</color>
+    <color name="semi_transparent">#800000</color>
+    <color name="dark_orange">#FF8C00</color>
+
+    <color name="course_add_icon">#70ac3f</color>
+    <color name="header_colors_home">#ff5f3a</color>
+    <color name="notif_home">#f85959</color>
+    <color name="blue_2">#6666FF</color>
+    <color name="lightblue">#659EC7</color>
+    <color name="border_color">#CECECE</color>
+    <color name="no_update_background">#4C4E50</color>
+    <color name="no_update_text_color">#B0B0B0</color>
+    <color name="dull_gray">#f5f5f5</color>
+
+</resources>
