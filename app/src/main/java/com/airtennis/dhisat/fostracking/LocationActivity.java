@@ -59,6 +59,7 @@ public class LocationActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_location);
         try {
+            DebugHandler.Log("git check");
             startBtn = (TextView) findViewById(R.id.start);
             stopBtn = (TextView) findViewById(R.id.stop);
             myToolbar = (Toolbar) findViewById(R.id.my_toolbar);
